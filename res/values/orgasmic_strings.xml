@@ -52,4 +52,8 @@
     <!-- Pulse on music track change -->
     <string name="pulse_on_new_tracks_title">Ambient music ticker</string>
     <string name="pulse_on_new_tracks_summary">Show Ambient Display when a new music track is played</string>
+
+    <!-- Battery light -->
+    <string name="battery_light_title">Turn on the light when charging</string>
+    
 </resources>
